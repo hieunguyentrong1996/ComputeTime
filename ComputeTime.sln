@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComputeTime", "ComputeTime\ComputeTime.csproj", "{32DBF3FF-C10D-42BD-9FF4-6AA81E17DDCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32DBF3FF-C10D-42BD-9FF4-6AA81E17DDCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DBF3FF-C10D-42BD-9FF4-6AA81E17DDCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DBF3FF-C10D-42BD-9FF4-6AA81E17DDCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DBF3FF-C10D-42BD-9FF4-6AA81E17DDCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E8A155B-32CE-4501-98C1-A71C1C0A2D40}
+	EndGlobalSection
+EndGlobal
